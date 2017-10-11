@@ -1,0 +1,1 @@
+#Implantable Heart device for heart rate correction-Pacemaker.This is muCos Real time operatine system. Various Task are defined with different priority analogus to real environent. Sensor senses data and sends to task and task analyse and control heart rate.
